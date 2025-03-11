@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "55d42d0d6075f8d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b06fd0e8a4ae5f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ae4c87d068f8df1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Network/CN Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CN Basics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19368ded8a53261f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5e63e20111928b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a5d5864b1d2127d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ef0820fb79d0aa95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "83522d6c36007dae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5aba953b4ccec9e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0458a604af4810f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "547e3a1125493453",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CN"
+            }
+          },
+          {
+            "id": "7334b6b096a263b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CN"
+            }
+          },
+          {
+            "id": "2ceccdf457bfc983",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d35f4d591a8c0ec9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CN.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5ae4c87d068f8df1",
+  "lastOpenFiles": [
+    "Computer Network/1.jpeg",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Computer Network/CN Basics.md",
+    "CN.md",
+    "Computer Network"
+  ]
+}
